@@ -1,0 +1,20 @@
+{
+  "name": "node-api-starter",
+  "version": "1.0.0",
+  "description": "Production-ready Node.js REST API boilerplate with Express, JWT authentication, and structured logging",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test test/"
+  },
+  "keywords": [
+    "express",
+    "rest-api",
+    "boilerplate",
+    "jwt",
+    "template"
+  ],
+  "author": "Bibek Bhattara",
+  "license": "MIT"
+}
