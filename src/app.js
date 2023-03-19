@@ -8,3 +8,5 @@ app.get('/health', (req, res) => {
 });
 
 export default app;
+import authRoutes from './routes/auth.routes.js';
+app.use('/api/auth', authRoutes);
