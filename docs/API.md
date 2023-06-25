@@ -1,33 +1,5 @@
-<!-- update: 2023-01-09 -->
-<!-- update: 2023-01-11 -->
-<!-- update: 2023-01-22 -->
-<!-- update: 2023-01-25 -->
-<!-- update: 2023-02-07 -->
-<!-- update: 2023-02-14 -->
-<!-- update: 2023-02-16 -->
-<!-- update: 2023-02-23 -->
-<!-- update: 2023-02-27 -->
-<!-- update: 2023-03-02 -->
-<!-- update: 2023-03-05 -->
-<!-- update: 2023-03-06 -->
-<!-- update: 2023-03-09 -->
-<!-- update: 2023-03-17 -->
-<!-- update: 2023-03-18 -->
-<!-- update: 2023-03-22 -->
-<!-- update: 2023-03-28 -->
-<!-- update: 2023-04-03 -->
-<!-- update: 2023-04-07 -->
-<!-- update: 2023-04-10 -->
-<!-- update: 2023-04-12 -->
-<!-- update: 2023-04-15 -->
-<!-- update: 2023-04-20 -->
-<!-- update: 2023-04-25 -->
-<!-- update: 2023-05-05 -->
-<!-- update: 2023-05-15 -->
-<!-- update: 2023-05-16 -->
-<!-- update: 2023-05-18 -->
-<!-- update: 2023-05-19 -->
-<!-- update: 2023-05-24 -->
-<!-- update: 2023-05-26 -->
-<!-- update: 2023-06-15 -->
-<!-- update: 2023-06-16 -->
+# Node API Starter - Endpoint Documentation
+
+### Endpoints
+- `GET /health`: System health check
+- `POST /api/auth/login`: Issue JWT access token
