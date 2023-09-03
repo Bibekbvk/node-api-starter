@@ -12,3 +12,5 @@ import authRoutes from './routes/auth.routes.js';
 app.use('/api/auth', authRoutes);
 import { errorHandler } from './middleware/errorHandler.js';
 app.use(errorHandler);
+// Performance enhancement: disable x-powered-by header
+app.disable('x-powered-by');
