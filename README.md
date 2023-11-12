@@ -6,3 +6,9 @@
 - Modular route controllers
 - JWT Authentication & Middleware
 - Error handling & status mapping
+
+## Running the API
+```bash
+npm install
+npm start
+```
