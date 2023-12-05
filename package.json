@@ -1,6 +1,6 @@
 {
   "name": "node-api-starter",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Production-ready Node.js REST API boilerplate with Express, JWT authentication, and structured logging",
   "type": "module",
   "main": "src/server.js",
